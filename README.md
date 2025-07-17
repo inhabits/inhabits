@@ -1,2 +1,2 @@
 # README.md
-My Personal Public-Facing Repository
+ FUN! my repo :)
